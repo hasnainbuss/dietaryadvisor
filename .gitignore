@@ -5,14 +5,20 @@
 /.pnp
 .pnp.js
 .env
+/config.js
+config.js
 
 # testing
 /coverage
 .env
+config.js
+/config.js
 
 # production
 /build
 .env
+config.js
+/config.js
 
 # misc
 .DS_Store
@@ -22,8 +28,12 @@
 .env.production.local
 .env
 .gitignore
+config.js
+/config.js
 
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .env
+config.js
+/config.js
