@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Button, Input, Spin } from "antd";
-import config from "../../config";
+import config from "../config";
 
 const OPENAI_API_KEY = config.openai.apiKey; // secure -> environment variable
 const { TextArea } = Input;
