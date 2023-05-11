@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dietaryadvisor/static/css/main.ea87c629.css",
+    "main.js": "/dietaryadvisor/static/js/main.d4b2ce99.js",
+    "static/js/787.576db943.chunk.js": "/dietaryadvisor/static/js/787.576db943.chunk.js",
+    "static/media/DALogo.PNG": "/dietaryadvisor/static/media/DALogo.70df0293773321a025c9.PNG",
+    "index.html": "/dietaryadvisor/index.html",
+    "main.ea87c629.css.map": "/dietaryadvisor/static/css/main.ea87c629.css.map",
+    "main.d4b2ce99.js.map": "/dietaryadvisor/static/js/main.d4b2ce99.js.map",
+    "787.576db943.chunk.js.map": "/dietaryadvisor/static/js/787.576db943.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea87c629.css",
+    "static/js/main.d4b2ce99.js"
+  ]
+}
